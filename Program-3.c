@@ -28,6 +28,6 @@ int main() {
 		
 	}
 	c[i]=a[i]+b[i] ;                                               //Complete the statement
-	printf("The concatenated string =%s %s",a,b);
+	printf("The concatenated string =%s%s",a,b);
 	return 0;
 }
